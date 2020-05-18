@@ -13,18 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tractor Hacking
-email: afite@calpoly.edu
+title: Colin Weber
+email: colin@uni-bremen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is dedicated to hacking into John Deere tractors and publishing
-  our findings in an open source manner.  The project is through California
-  Polytechnic State University's Capstone I/II class and sponsored by iFixit.
-  Material on this site is protected from DMCA takedown by a DMCA exemption
-  granted by the US Copyright Office.
+  Portfolio einiger während des Studiums Digitale Medien, Fachrichtung Medieninformatik, erbrachter Projekte.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tractorhacking.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://colinweber.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username: TractorHacking
+github_username: colinweber
 
 # Build settings
 markdown: kramdown
