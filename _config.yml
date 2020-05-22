@@ -30,7 +30,7 @@ plugins:
 
 header_pages:
    - about.md
-   - polycan.md
+   - farmsmart.md
    - greenboard.md
    - documentation.md
    - data.md
@@ -38,9 +38,9 @@ header_pages:
    - usage.md
 
 collections:
-   polycan:
+   farmsmart:
       output: true
-      title: PolyCAN
+      title: Bachelorarbeit
    greenboard:
       output: true
       title: GreenBoard
