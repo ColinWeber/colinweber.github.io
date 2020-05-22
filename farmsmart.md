@@ -3,7 +3,7 @@ layout: page
 title: FarmSmart
 permalink: /farmsmart/
 ---
-# Was ist FarmSmart TESTETETEST
+# Was ist FarmSmart
 Farmsmart ist Teil meiner Bachelorarbeit mit dem Titel "Entwicklung einer Anwendung zur Echtzeit-Visualisierung
 von CAN-Bus-Daten landwirtschaftlicher Maschinen", welche ich im Rahmen meines Studiums Medieninformatik an der Uni Bremen, entwickelt habe. 
 Mit dem Ziel Fahrer bestmöglich mit relevanten Maschinenparametern über ihre landwirtschaftlichen Fahrzeuge in Echtzeit zu versorgen, ermöglicht es die Android App das Visualisieren verschiedenster Maschinenparamter. Mittels eines drahtlosen Adapters, der über den CAN-Bus Diagnoseport der Maschine auf die Steuergeräte zugreift, lassen sich relevante Daten abgreifen und auf einem Handheld Device grafisch darstellen.  
