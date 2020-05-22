@@ -32,10 +32,8 @@ header_pages:
    - about.md
    - farmsmart.md
    - polycan.md
-   - documentation.md
-   - data.md
-   - contributors.md
-   - usage.md
+   - NPCAgency.md
+   - Photohraphy.md
 
 collections:
    farmsmart:
