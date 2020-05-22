@@ -9,4 +9,5 @@ Non-player characters (NPC) werden mehr und mehr wichtiger Bestandteil heutiger 
 <div style="margin:0auto;"><img src="/npcagency/intro.png" alt="Dialogmöglichkeiten" width="500"/></div>
 <div style="text-align:left;">Andwendungsbeispiel der entwickelten Applikation</div>
 
-Das Research Paper in englischer Sprache ist hier zu finden: [Bachelorarbeit](/npcagency/NPCAgency.pdf)
+Die Spielwelt, welche die generierten Eigenschaften der NPCAgency einbindet kann hier getestet werden: [NPCAgency Game](https://npcagency.github.io/)
+Das Research Paper in englischer Sprache ist hier zu finden: [NPCAgency Research Paper](/npcagency/NPCAgency.pdf)
