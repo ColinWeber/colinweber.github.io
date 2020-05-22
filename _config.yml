@@ -32,8 +32,8 @@ header_pages:
    - about.md
    - farmsmart.md
    - polycan.md
-   - NPCAgency.md
-   - Photography.md
+   - npcagency.md
+   - photography.md
 
 collections:
    farmsmart:
