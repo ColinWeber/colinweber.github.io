@@ -31,7 +31,7 @@ plugins:
 header_pages:
    - about.md
    - farmsmart.md
-   - greenboard.md
+   - polycan.md
    - documentation.md
    - data.md
    - contributors.md
@@ -40,10 +40,10 @@ header_pages:
 collections:
    farmsmart:
       output: true
-      title: Bachelorarbeit
-   greenboard:
+      title: FarmSmart
+   polycan:
       output: true
-      title: GreenBoard
+      title: PolyCAN
    documentation:
       output: true
       title: Documentation

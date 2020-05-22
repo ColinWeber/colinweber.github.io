@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FarmSmart
+title: PolyCAN
 permalink: /polycan/
 ---
 # Getting started with PolyCAN
