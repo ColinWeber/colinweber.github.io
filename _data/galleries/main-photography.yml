@@ -12,110 +12,110 @@ pictures:
   original: WBR_1976.jpg
   sizes:
   - WBR_1976.jpg
-  thumbnail: WBR_1976.jpg
+  thumbnail: WBR_1976Thumb.jpg
 - filename: WBR_2076
   original: WBR_2076.jpg
   sizes:
   - WBR_2076.jpg
-  thumbnail: WBR_2076.jpg
+  thumbnail: WBR_2076Thumb.jpg
 - filename: WBR_2150
   original: WBR_2150.jpg
   sizes:
   - WBR_2150.jpg
-  thumbnail: WBR_2150.jpg
+  thumbnail: WBR_2150Thumb.jpg
 - filename: WBR_2199
   original: WBR_2199.jpg
   sizes:
   - WBR_2199.jpg
-  thumbnail: WBR_2199.jpg
+  thumbnail: WBR_2199Thumb.jpg
 - filename: WBR_3425
-  original: WBR_3425.jpg
+  original: WBR_3425.png
   sizes:
-  - WBR_3425.jpg
-  thumbnail: WBR_3425.jpg
+  - WBR_3425.png
+  thumbnail: WBR_3425Thumb.png
 - filename: WBR_3885
-  original: WBR_3885.jpg
+  original: WBR_3885.png
   sizes:
-  - WBR_3885.jpg
-  thumbnail: WBR_3885.jpg
+  - WBR_3885.png
+  thumbnail: WBR_3885Thumb.png
 - filename: WBR_3935
-  original: WBR_3935.jpg
+  original: WBR_3935.png
   sizes:
-  - WBR_3935.jpg
-  thumbnail: WBR_3935.jpg
+  - WBR_3935.png
+  thumbnail: WBR_3935Thumb.png
+- filename: WBR_3955
+  original: WBR_3955.png
+  sizes:
+  - WBR_3955.png
+  thumbnail: WBR_3955Thumb.png
 - filename: WBR_4120
   original: WBR_4120.jpg
   sizes:
   - WBR_4120.jpg
-  thumbnail: WBR_4120.jpg
+  thumbnail: WBR_4120Thumb.jpg
 - filename: WBR_4190
   original: WBR_4190.jpg
   sizes:
   - WBR_4190.jpg
-  thumbnail: WBR_4190.jpg
+  thumbnail: WBR_4190Thumb.jpg
 - filename: WBR_4230
   original: WBR_4230.jpg
   sizes:
   - WBR_4230.jpg
-  thumbnail: WBR_4230.jpg
+  thumbnail: WBR_4230Thumb.jpg
 - filename: WBR_4342
   original: WBR_4342.jpg
   sizes:
   - WBR_4342.jpg
-  thumbnail: WBR_4342.jpg
+  thumbnail: WBR_4342Thumb.jpg
 - filename: WBR_4374
   original: WBR_4374.jpg
   sizes:
   - WBR_4374.jpg
-  thumbnail: WBR_4374.jpg
-- filename: WBR_4374
-  original: WBR_4374.jpg
-  sizes:
-  - WBR_4374.jpg
-  thumbnail: WBR_4374.jpg
+  thumbnail: WBR_4374Thumb.jpg
 - filename: WBR_4377
   original: WBR_4377.jpg
   sizes:
   - WBR_4377.jpg
-  thumbnail: WBR_4377.jpg
+  thumbnail: WBR_4377Thumb.jpg
 - filename: WBR_4418
   original: WBR_4418.jpg
   sizes:
   - WBR_4418.jpg
-  thumbnail: WBR_4418.jpg
+  thumbnail: WBR_4418Thumb.jpg
 - filename: WBR_4419
   original: WBR_4419.jpg
   sizes:
   - WBR_4419.jpg
-  thumbnail: WBR_4419.jpg
+  thumbnail: WBR_4419Thumb.jpg
 - filename: WBR_4424
   original: WBR_4424.jpg
   sizes:
   - WBR_4424.jpg
-  thumbnail: WBR_4424.jpg
+  thumbnail: WBR_4424Thumb.jpg
 - filename: WBR_4444
   original: WBR_4444.jpg
   sizes:
   - WBR_4444.jpg
-  thumbnail: WBR_4444.jpg
+  thumbnail: WBR_4444Thumb.jpg
 - filename: WBR_4458
   original: WBR_4458.jpg
   sizes:
   - WBR_4458.jpg
-  thumbnail: WBR_4458.jpg
+  thumbnail: WBR_4458Thumb.jpg
 - filename: WBR_4465
   original: WBR_4465.jpg
   sizes:
   - WBR_4465.jpg
-  thumbnail: WBR_4465.jpg
+  thumbnail: WBR_4465Thumb.jpg
 - filename: WBR_4467
   original: WBR_4467.jpg
   sizes:
   - WBR_4467.jpg
-  thumbnail: WBR_4467.jpg
+  thumbnail: WBR_4467Thumb.jpg
 - filename: WBR_4682
   original: WBR_4682.jpg
   sizes:
   - WBR_4682.jpg
-  thumbnail: WBR_4682.jpg
+  thumbnail: WBR_4682Thumb.jpg
   
