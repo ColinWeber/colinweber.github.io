@@ -13,4 +13,4 @@ Das folgende Video zeigt die Funktionsweise von PolyCAN an dem Beispiel der Dreh
 
 <br>
 
-Die ausführliche Dokumentation dieses Projektes in Englischer Sprache findet sich auf dieser Seite: [tractorhacking.github.io](https://https://tractorhacking.github.io/)
+Die ausführliche Dokumentation dieses Projektes in Englischer Sprache findet sich auf dieser Seite: [tractorhacking.github.io](https://tractorhacking.github.io/)
