@@ -63,6 +63,11 @@ pictures:
   sizes:
   - WBR_4230.jpg
   thumbnail: WBR_4230Thumb.jpg
+- filename: WBR_4467
+  original: WBR_4467.jpg
+  sizes:
+  - WBR_4467.jpg
+  thumbnail: WBR_4467Thumb.jpg
 - filename: WBR_4342
   original: WBR_4342.jpg
   sizes:
@@ -108,11 +113,6 @@ pictures:
   sizes:
   - WBR_4465.jpg
   thumbnail: WBR_4465Thumb.jpg
-- filename: WBR_4467
-  original: WBR_4467.jpg
-  sizes:
-  - WBR_4467.jpg
-  thumbnail: WBR_4467Thumb.jpg
 - filename: WBR_4682
   original: WBR_4682.jpg
   sizes:
