@@ -48,3 +48,10 @@ collections:
    idinfo:
       output: true
       title: ID Information
+      
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
