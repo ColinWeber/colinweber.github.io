@@ -5,8 +5,7 @@ no_menu_item: true # required only for this example website because of menu cons
 support: [jquery, gallery]
 ---
 
-TEST This is an example gallery. All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
-
+Die Fotografie von technischen Objekten, besonders im Landwirtschaftlichen Bereich ist eine meiner Interessen. Ein Teil meiner Bilder wird von Landwirtschaftlichen Lohnunternehmern für die Internetpräsenz auf Social Media Kanälen, Websiten aber auch für Flyer verwendet. 
 {% include gallery-layout.html gallery=site.data.galleries.main-photography %}
 
 [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
