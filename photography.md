@@ -7,7 +7,7 @@ support: [jquery, gallery]
 
 This is an example gallery. All images licensed under [CC-BY-NC-SA license][license]. Check the [Git Repo][repo] for a copy of this license.
 
-{% include gallery-layout.html gallery=site.data.galleries.main-photgraphy %}
+{% include gallery-layout.html gallery=site.data.galleries.main-photography %}
 
 [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [repo]: https://github.com/opieters/jekyll-gallery-example
