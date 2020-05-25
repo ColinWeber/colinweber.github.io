@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: A Very Basic Example
+title: A Very Basic Test Example
 no_menu_item: true # required only for this example website because of menu construction
 support: [jquery, gallery]
 ---
