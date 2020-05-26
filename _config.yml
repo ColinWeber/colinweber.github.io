@@ -16,7 +16,7 @@
 title: Colin Weber
 email: colin@uni-bremen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio einiger während des Studiums Digitale Medien, Fachrichtung Medieninformatik, erbrachter Projekte.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://colinweber.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
