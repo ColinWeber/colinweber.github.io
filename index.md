@@ -7,10 +7,10 @@ layout: home
 # Akademische Laufbahn
 <ul>
   <li><b>2012</b> Abitur, Gymnasium an der Hamburger Straße</li>
-  <li><b>2012 - 2016</b> Studium B.Sc. Systems Engineering, Uni Bremen</li>
-  <li><b>2016 - 2017</b> Studium B.Sc. Systems Engineering, Uni des Saarlands</li>
-  <li><b>2017 - 2020</b> Studium B.Sc. Digitale Medien, Medieninformatik, Uni Bremen</li>
-  <li><b>2018 - 2019</b> Studium B.Sc. Digitale Medien, Medieninformatik, Auslandsjahr California Politechnic State University</li>
+  <li><b>2012 - 2016</b> Studium, B.Sc. Systems Engineering, Uni Bremen</li>
+  <li><b>2016 - 2017</b> Studium, B.Sc. Systems Engineering, Uni des Saarlands</li>
+  <li><b>2017 - 2020</b> Studium, B.Sc. Digitale Medien, Medieninformatik, Uni Bremen</li>
+  <li><b>2018 - 2019</b> Studium, B.Sc. Digitale Medien, Medieninformatik, Auslandsjahr California Politechnic State University</li>
 </ul>  
 
 # Praktika
