@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="float:right;"><a href="https://colinweber.github.io"><img src="/assets/webercolin.jpg" alt="Colin Weber" width="180"/></a></div>
+<div style="float:right;"><a href="https://colinweber.github.io"><img src="/assets/webercolin.jpg" alt="Colin Weber" width="150"/></a></div>
 
 # Akademische Laufbahn
 <ul>
