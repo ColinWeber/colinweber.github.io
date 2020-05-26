@@ -29,7 +29,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-   - about.md
    - farmsmart.md
    - polycan.md
    - npcagency.md
