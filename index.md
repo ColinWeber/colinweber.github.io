@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="float:right;"><a href="https://colinweber.github.io"><img src="/assets/webercolin.jpg" alt="Colin Weber" width="200"/></a></div>
+<div style="float:right;"><a href="https://colinweber.github.io"><img src="/assets/webercolin.jpg" alt="Colin Weber" width="180"/></a></div>
 
 # Akademische Laufbahn
 <ul>
@@ -24,4 +24,5 @@ layout: home
 <ul>
   <li><b>2012 - Jetzt</b> Freiwillige Feuerwehr</li>
   <li><b>Staatsangehörigkeit:</b> deutsch, amerikanisch</li>
+  <li><b>Fürherscheinklassen:</b>B,T</li>
 </ul>
