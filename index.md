@@ -24,5 +24,5 @@ layout: home
 <ul>
   <li><b>2012 - Jetzt</b> Freiwillige Feuerwehr</li>
   <li><b>Staatsangehörigkeit:</b> deutsch, amerikanisch</li>
-  <li><b>Fürherscheinklassen:</b>B,T</li>
+  <li><b>Fürherscheinklassen:</b> B,T</li>
 </ul>
