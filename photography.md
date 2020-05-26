@@ -5,7 +5,7 @@ no_menu_item: true # required only for this example website because of menu cons
 support: [jquery, gallery]
 ---
 
-Die Fotografie von technischen Objekten, besonders im Landwirtschaftlichen Bereich ist eine meiner Interessen. Ein Teil meiner Bilder wird von Landwirtschaftlichen Lohnunternehmern für die Internetpräsenz auf Social Media Kanälen, Websiten aber auch für Flyer verwendet. 
+Die Fotografie von technischen Objekten, besonders im landwirtschaftlichen Bereich ist eine meiner Interessen. Ein Teil meiner Bilder wird von landwirtschaftlichen Lohnunternehmern für die Internetpräsenz auf Social Media Kanälen, Websiten aber auch für Flyer verwendet. 
 {% include gallery-layout.html gallery=site.data.galleries.main-photography %}
 
 [license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
