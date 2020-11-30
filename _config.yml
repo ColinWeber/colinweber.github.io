@@ -22,7 +22,7 @@ url: "https://colinweber.github.io/" # the base hostname & protocol for your sit
 twitter_username: 
 github_username: colinweber
 
-# Build settings
+# Build settings 
 markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
