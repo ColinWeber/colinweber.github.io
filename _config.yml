@@ -40,7 +40,7 @@ collections:
       title: FarmSmart
    polycan:
       output: true
-      title: PolyCAN
+      title: TractorHacking
    documentation:
       output: true
       title: Documentation
