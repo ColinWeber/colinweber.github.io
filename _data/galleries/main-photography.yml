@@ -8,6 +8,11 @@ preview:
   - VS-2012-5948-2999x1999.jpg
   thumbnail: VS-2012-5948-thumbnail.jpg
 pictures:
+- filename: Plakat
+  original: plakat.png
+  sizes:
+  - plakat.png
+  thumbnail: plakatThumb.png
 - filename: WBR_1976
   original: WBR_1976.jpg
   sizes:
