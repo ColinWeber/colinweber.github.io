@@ -32,4 +32,5 @@ layout: home
   <li><b>2012 - Jetzt:</b> Freiwillige Feuerwehr</li>
   <li><b>Staatsangehörigkeit:</b> deutsch, amerikanisch</li>
   <li><b>Führerscheinklassen:</b> B und T</li>
+  <li><b>Zertifikate:</b>TOEFL iBT C1</li>
 </ul>
