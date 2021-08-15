@@ -20,6 +20,7 @@ layout: home
 
 # Praktika
 <ul>
+  <li><b>2021:</b> CLAAS E-Systems GmbH, UI Development</li>
   <li><b>2017:</b> Schreiber Baumaschinen, Werkstatt</li>
   <li><b>2011:</b> Schreiber Baumaschinen, Werkstatt</li>
   <li><b>2009:</b> Airbus Bremen, Tragflächen und Landeklappenmontage </li>
@@ -29,7 +30,7 @@ layout: home
 
 # Sonstiges
 <ul>
-  <li><b>2012 - Jetzt:</b> Freiwillige Feuerwehr</li>
+  <li><b>2012 - Jetzt:</b> Freiwillige Feuerwehr, Leitender Gerätewart</li>
   <li><b>Staatsangehörigkeit:</b> deutsch, amerikanisch</li>
   <li><b>Führerscheinklassen:</b> B und T</li>
   <li><b>Zertifikate:</b> TOEFL iBT C1</li>
